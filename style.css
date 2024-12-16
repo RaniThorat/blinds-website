@@ -199,11 +199,6 @@ header .navbar {
     background: transparent;
 }
 
-.hero-section .hero-details .contact-us:hover{
-    color: var(--primary-color);
-    border-color: var(--secondary-color);
-    background: var(--secondary-color);
-}
 
 .hero-section .hero-image-wrapper {
     max-width: 500px;
